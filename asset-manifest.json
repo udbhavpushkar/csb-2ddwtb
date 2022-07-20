@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://udbhavpushkar.github.io/csb-2ddwtb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://udbhavpushkar.github.io/csb-2ddwtb/static/js/main.b7e79feb.chunk.js",
+    "main.js.map": "https://udbhavpushkar.github.io/csb-2ddwtb/static/js/main.b7e79feb.chunk.js.map",
+    "runtime-main.js": "https://udbhavpushkar.github.io/csb-2ddwtb/static/js/runtime-main.c886d0cc.js",
+    "runtime-main.js.map": "https://udbhavpushkar.github.io/csb-2ddwtb/static/js/runtime-main.c886d0cc.js.map",
+    "static/js/2.67ded058.chunk.js": "https://udbhavpushkar.github.io/csb-2ddwtb/static/js/2.67ded058.chunk.js",
+    "static/js/2.67ded058.chunk.js.map": "https://udbhavpushkar.github.io/csb-2ddwtb/static/js/2.67ded058.chunk.js.map",
+    "index.html": "https://udbhavpushkar.github.io/csb-2ddwtb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://udbhavpushkar.github.io/csb-2ddwtb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.67ded058.chunk.js.LICENSE.txt": "https://udbhavpushkar.github.io/csb-2ddwtb/static/js/2.67ded058.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c886d0cc.js",
+    "static/js/2.67ded058.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b7e79feb.chunk.js"
+  ]
+}
